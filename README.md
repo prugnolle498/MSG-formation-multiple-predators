@@ -3,7 +3,7 @@ Dataset for each focal species and each type of analysis (including or excluding
 
 ##### Data and main code lines to reproduce the analyses (GLMM and VIF estimates) of the article: Mixed-species group formation in response to different predators in the South African savannahs by Prugnolle et al.
 
-Data and code can be found in the zip file: mixed_species_groups_multiple_predators.zip
+Data and code can be found in the zip file: mixed_species_groups_multiple_predators_corrected.zip
 
 ##### Data files:
 
