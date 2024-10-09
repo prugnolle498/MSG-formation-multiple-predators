@@ -14,6 +14,6 @@ there is a file for each focal species. Each file name is of the form: focal_"sp
 
 ##### Main lines of code to reproduce the analyses:
 
-codes_glmm_vif.R
+codes_glmm_vif_corrected.R
 
 
